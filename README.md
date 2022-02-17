@@ -7,4 +7,4 @@ Olá! Bem vindo ao meu livro de receitas :book:
 - Pavê.
 - Bolo de Cenoura.
 
-#Receita nº 02
+# Receita nº 02
